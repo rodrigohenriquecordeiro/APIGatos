@@ -1,5 +1,5 @@
 # API de Gatos
-Esse programa consome duas API's sobre gatos 🐱. A primeira, **cat-facts**, informa 5 fatos interessantes e a segunda, **CATAAS**, busca 5 GIF's. Na tela de boas vindas utilizei uma imagem fornecida pelo amigo Eduardo Albuquerque (Obrigado Dudu!).
+Essa aplicação consome duas API's sobre gatos 🐱. A primeira, **cat-facts**, informa 5 fatos interessantes e a segunda, **CATAAS**, busca 5 GIF's. Na tela de boas vindas utilizei uma imagem fornecida pelo amigo Eduardo Albuquerque (Obrigado Dudu!).
 
 O que aprendi com esse primeiro projeto com API:
 1. Consumir API's abre um universo gigantesco, estou com MUITAS ideias.
